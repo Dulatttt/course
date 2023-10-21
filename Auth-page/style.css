@@ -1,0 +1,20 @@
+.registration-form {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    margin: 10px;
+}
+
+.form-fields {
+    margin: 10px;
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.submit-btn {
+    margin-left: 10px;
+}
